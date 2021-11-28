@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+.container
+{
+    width: 980px;
+    margin: 0px auto;
+}
+header .avatar{
+    height: 210px;
+}
+header .avatar img{
+    padding-left: 370px;
+}
+header .nameschool{
+    height: 35px;
+    background: #D3D3D3;
+}
+header .nameschool ul{
+    list-style: none;
+    padding-left: 200px;
+}
+header .nameschool ul li a{
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+}
+header .infor{
+    height: 80px;
+    background: mediumblue;
+}
+header .infor ul{
+    list-style: none;
+    padding-left: 10px;
+}
+header .infor ul li a{
+    font-size: 50px;
+    color: lightyellow;
+    text-decoration: none;
+}
+nav
+{   
+    height: 350px;
+    background: #D3D3D3;
+}
+nav ul{
+    list-style: none;
+    padding-left: 10px;
+}
+nav ul li{
+    line-height: 50px;
+}
+nav ul li a{
+    font-size: 30px;
+    color: maroon;
+}
