@@ -103,8 +103,8 @@ html{
 
     position: relative;
     margin-top: 46px;
-    padding-top: 100%;    
-    background: url('/assets/img/anh1.jpg')  cover no-repeat;
+    padding-top: 900px;    
+    background: url('/assets/img/ptit.jpg') top center / cover no-repeat;
     
 }
 
@@ -135,12 +135,12 @@ html{
 }
 
 .sidebar .slider2{
-
-    
     padding-top: 100%;
     background: url('/assets/img/anhdaidien.jpg') top center / cover no-repeat;
+    overflow: hidden;
 }
     
+#information, 
 .sidebar .information  h2 {
     display: block;
     padding-top: 20px;
@@ -162,6 +162,7 @@ html{
     bottom: 1100px;
 }
 
+#name, 
 .sidebar2 .name{
 
     display: block;
