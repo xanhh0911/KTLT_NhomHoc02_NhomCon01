@@ -1,0 +1,83 @@
+
+.text{
+    margin-left: 50px;
+}
+#ho{
+    color:black;
+
+font-family:'Arial';
+font-size: 180%;
+margin-left: 100px;
+margin-top: 200px;
+}
+#dem{
+    color: black;
+
+font-family:'Arial';
+font-size: 180%;
+margin-left: 400px;
+margin-top: -105px;
+}
+#tendem{
+    color: rgb(128, 82, 21);
+
+font-family:'Arial';
+font-size: 180%;
+margin-left: 70px;
+margin-top: 0px;
+}
+#ten{
+    color: rgb(128, 82, 21);
+
+font-family:'Arial';
+font-size: 180%;
+margin-left: 400px;
+margin-top: -105px;
+}
+.thongtin{
+
+font-size: 120%;
+margin-left: 10px;
+margin-top: 160px;
+}
+.top{
+    color: rgb(0, 0, 0));
+    font-family:'Arial';
+    font-size:43px;
+    margin-bottom: 20px;
+    
+}
+.bot{
+    font-family: Arial;
+    font-size: 20px;
+    margin-left: 0px;
+}
+.Lienhe{
+
+font-size: 120%;
+margin-left: 500px;
+margin-top: -220px;
+}
+.top1{
+    
+    font-family:'Arial';
+    font-size:43px;
+    margin-bottom: 20px;
+    
+}
+.bot1{
+    font-family: Arial;
+    font-size: 20px;
+    margin-left: 0px;
+}
+
+
+
+
+
+html
+{
+
+background: url('https://scontent.fhan7-1.fna.fbcdn.net/v/t1.6435-9/130305901_438671814186088_7642591031940979505_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_ohc=eHMTQpk_JoYAX9BoKl5&_nc_ht=scontent.fhan7-1.fna&oh=9ee0db1c3906fef1f4c049ce2a889afb&oe=61C93ACE') 300px -300px;
+background-repeat: no-repeat;
+}
