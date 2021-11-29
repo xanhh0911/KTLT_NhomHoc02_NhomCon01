@@ -101,7 +101,8 @@ html{
 
 #slider{
     position: relative;
-    margin-top: 46px;     
+    margin-top: 46px;
+    padding-top: 50px;    
 }
 
 #slider #text-slider {
