@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lê Xuân Anh-B19DCVT011</title>
+</head>
+<style>
+body {
+  background-image: url('img_girl.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+<body>
+
+
+<h1>Họ và tên:Lê Xuân Anh</h1> 
+    
+<h2>Mã Sinh Viên:B19DCVT011</h2>
+<h3>Trường: PTIT</h3>
+<h4>Địa chỉ:Từ Sơn - Bắc Ninh.
+<p>hi.</p>
+<div class="thongtin">
+          <p class="top">Thông Tin</p>
+          <p class="bot">Ngày sinh: 11/09/2001</p>
+          <p class="bot">Quê quán: Bắc Ninh</p>
+          <p class="bot">Chuyên ngành: Kỹ thuật điện tử viễn thông</p>
+          </div>
+        </div>
+  		<div class="Lienhe">
+          <p class="top1">Liên Hệ</p>
+          <p class="bot1">Điện thoại: 0388537877</p>
+          <p class="bot1">Gmail:  xanhh0911@gmail.com</p>
+         <a href="https://www.w3schools.com"> https://www.facebook.com/xanhh0911/</a>
+          </div>
+      </div>
+
+
+
+</body>
+</html>
